@@ -15,7 +15,7 @@ Answers to Explore pt. 3:
 I know that I created a PR to the CSE110 repo which is not allowed, but I followed the steps exactly and selected my repo ominjoo/lab5_starter for the base repo, but there was an issue where it showed my repo as the base yet still sent the PR to the CSE110 repo. I have attached a video:
 
 https://youtu.be/mm-xW2moJ2E
-
+In the video, I show that the pull request to the wrong repo comes from when I clearly changed the base to be my own repo, not the one I forked from. 
 Will I still get points reducted?
 
 Thank you TAs/Tutors.
