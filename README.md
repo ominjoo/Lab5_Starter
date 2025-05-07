@@ -12,7 +12,7 @@ Answers to Explore pt. 3:
 
 
 # Addressing the PR to original repo:
-I know that I created a PR to the CSE110 repo which is not allowed, but I followed the steps exactly and selected my repo ominjoo/lab5_starter for the base repo, but there was an issue where it showed my repo as the base yet still send the PR to the CSE110 repo. I have attached a video:
+I know that I created a PR to the CSE110 repo which is not allowed, but I followed the steps exactly and selected my repo ominjoo/lab5_starter for the base repo, but there was an issue where it showed my repo as the base yet still sent the PR to the CSE110 repo. I have attached a video:
 
 https://github.com/user-attachments/assets/7c427b6c-c4fc-4b65-93f4-01917f1057d6
 
